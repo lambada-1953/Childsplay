@@ -221,4 +221,4 @@ Childsplay is available as a full free version, providing all features and updat
 Get started with Childsplay today and give your children the gift of learning through play!
 
 ---
-**Last updated:** 2026-11-07 21:24:20 UTC
+**Last updated:** 2026-11-08 01:02:08 UTC
